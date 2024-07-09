@@ -1,4 +1,4 @@
-# teachable-machine-voorbeeld
+# Werkende Google Teachable Machine voorbeeld
 
 ### Voorbeeld bestanden
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/teachable-machine-voorbeeld/archive/refs/heads/master.zip)     
