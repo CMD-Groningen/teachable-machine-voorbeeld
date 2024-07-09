@@ -1,5 +1,7 @@
 # teachable-machine-voorbeeld
 
+Google Teachable Machine voorbeeld, waarbij in dit geval de webcam van de laptop als interface/input wordt gebruikt om gebeurtenissen in een HTML pagina aan te sturen.
+
 ## Voorbeeld bestanden
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/teachable-machine-voorbeeld/archive/refs/heads/master.zip)     
 Preview in de browser? [Klik hier](https://cmd-groningen.github.io/teachable-machine-voorbeeld)  
